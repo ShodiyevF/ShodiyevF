@@ -1,0 +1,24 @@
+*{
+	user-select: none;
+}
+body{
+	background-image: url('background.jpg');
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;	
+}
+content .cont_1_1_input{
+	display: flex;
+}
+content .cont_1_1_input .cont_1_1_input_1{
+	margin-top: 100px;
+}
+content .cont_1_1_input .cont_1_1_input_1 h3{
+	margin-bottom: -0.5px;
+	color: white;
+}
+content .cont_1_1_input .cont_1_1_input_1 .input{
+	/*border: 3px solid red;*/
+	border-radius: 7px;
+	font-size: 20px;
+}

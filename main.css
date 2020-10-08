@@ -1,0 +1,89 @@
+*{
+	user-select: none;
+}
+body{
+	background-image: url('img/sunset.jpg');
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;	
+}
+header{
+	margin-top: 17px;
+}
+header .head_1_1_registration{
+	margin-left: 1230px;
+}
+header .head_1_1_registration .head_1_1_registration_1{
+	padding-top: 7px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+	transition: all .2s ease-in-out;
+	font-size: 20px;
+	border: 1px solid #2c5279;
+	border-radius: 5px;
+	color: #2c5279;
+}
+header .head_1_1_registration .head_1_1_registration_1:hover{
+	background-color: #2c5279;
+	color: white;
+}
+header .head_1_2_logo_and_btn{
+	display: flex;
+	flex-direction: column;
+}
+header .head_1_2_logo{
+	display: flex;
+	flex-direction: column;
+}
+header .head_1_2_logo_and_btn .head_1_2_logobtn{
+	height: 540px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/*background: red;*/
+}
+header .head_1_2_logo_and_btn .head_1_2_logo_1{
+	width: 350px;
+	height: 350px;
+}
+header .head_1_2_logobtn .head_1_2_logobtn_1{
+	position: absolute;
+	color: #3578B1;
+	margin-top: 130px;
+	margin-left: -270px;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 1px solid #3578B1;
+	border-radius: 5px;
+	text-decoration: none;
+}
+header .head_1_2_logobtn .head_1_2_logobtn_1:hover{
+	background: #3578B1;
+	color: white;
+}
+header .head_1_2_logobtn .head_1_2_logobtn_2{
+	position: absolute;
+	color: #3578B1;
+	margin-top: 130px;
+	margin-left: 250px;
+	padding: 10px;
+	border: 1px solid #3578B1;
+	border-radius: 5px;
+	text-decoration: none;
+}
+header .head_1_2_logobtn .head_1_2_logobtn_2:hover{
+	background: #3578B1;
+	color: white;
+}
+footer .foot_1_1_icons .fa-bitcoin{
+	margin-top: 15px;
+	margin-left: 10px;
+	font-size: 40px;
+	color: lightgrey;
+}
+.fab{
+	transform: rotate(-15deg);
+}
