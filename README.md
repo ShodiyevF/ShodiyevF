@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ShodiyevF
+- 👀 I’m interested in Back end 
+- 🌱 I’m currently learning Back end
