@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fayzulloh</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">A passionate backend developer from Uzbekistan :uzbekistan:</h3>
 
 - 🔭 I’m currently working on [Nasiya Savdo](nasiyasavdo.com)
 
