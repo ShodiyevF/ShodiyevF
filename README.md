@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **html, css, bootstrap, js, reactjs, OOP, restapi(express, fastify), postgresql, graphql, socketoi**
 
-- 👨‍💻 All of my projects are available at [undifined](undifined)
-
-- 💬 Ask me about **html, css, js, react, postgresql**
+- 💬 Ask me about **html, css, js, react, node js, postgresql**
 
 - 📫 How to reach me **fayzullohwork@gmail.com**
 
-- 📄 Know about my experiences [null](null)
-
-- ⚡ Fun fact **null**
+- ⚡ Fun fact **coding is fun**
 
 
 <h3 align="left">Languages and Tools:</h3>
