@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Fayzulloh</h1>
 <h3 align="center">Full-Stack developer</h3>
 
-- 🏢 I’m currently working on [Mohirdev](https://mohirdev.uz)
+- 🏢 I’m currently internship on [Abutech](https://abutech.uz)
 
 - 🌱 I’m currently learning **Typescript, Mongo db**
 
