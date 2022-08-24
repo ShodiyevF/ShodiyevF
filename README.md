@@ -1,8 +1,6 @@
 <h1 align="center">Hello , I'm Fayzulloh</h1>
 <h3 align="center">Full-Stack developer</h3>
 
-- 🏢 I’m currently internship on [Abutech](https://abutech.uz)
-
 - 🌱 I’m currently learning **Typescript, Mongo db**
 
 - 💬 Ask me about **JavaScript, React, Node JS, Postgresql**
