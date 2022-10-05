@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, React, Node JS, Postgresql**
 
-- 📫 How to reach me **fayzullohword@gmail.com**
+- 📫 How to reach me **fayzullohwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
