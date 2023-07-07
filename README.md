@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript, Mongo db**
 
-- 💬 Ask me about **JavaScript, React, Node JS, Postgresql**
+- 💬 Ask me about **JavaScript, React JS, Node JS, Postgresql, React Native, Electron JS**
 
 - 📫 How to reach me **fayzullohwork@gmail.com**
 
